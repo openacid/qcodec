@@ -1,0 +1,10 @@
+# Usage copy this to settings.yml
+
+_extends: gh-config
+
+
+repository:
+  name: qcodec
+  description: quick encoding/decoding lib
+  homepage: https://openacid.github.io/
+  topics: go, encode, decode
